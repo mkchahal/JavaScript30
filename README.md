@@ -7,4 +7,7 @@ I love it when art/music meets web development.
 New Things I learnt: 
 * Keydown Event
 * Audio Files in the website
-* Data attrivutes in the tags
+* Data attributes in the tags
+
+Look Up:
+- [ ] 'this' in arrow function vs. the traditional function. 🧐
