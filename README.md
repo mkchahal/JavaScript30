@@ -17,3 +17,11 @@ Who doesn't love a classic analog clock? It actually shows the flow of the time 
 New Things I learnt: 
 * Transform Origin at Axis
 * Cubic Bezier
+
+## Day 3 - CSS Variables
+Wooow! I saw the variables before but exactly learn how they work in CSS.
+New Things I learnt: 
+* Defining CSS Variables
+* Blur Filter 
+* NodeList vs. Array
+
