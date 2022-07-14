@@ -30,4 +30,9 @@ Atleast I am doing some workouts for my mind.
 New Things I learnt: 
 * console.table and how it varies w/ browser
 
+## Day 5 - Flex Panel Gallery
+Flexbox is a big boon to the developer community! 🙏
+New Things I learnt:
+* Revised animations and flex-box
+
 
