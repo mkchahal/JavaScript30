@@ -42,3 +42,9 @@ New Things I learnt:
 * fetch in JS and how it is a promise in itself
 * some intro to RegEx and how it makes matching easier
 
+## Day 7 - Array Cardio Day 2 💪💪 - 07/14/2022
+Another day for Cardio! Pheewww.. I am gonna have a strong heart.
+New Things I learnt: 
+* Learn some and every functions
+* Revise find and findIndex functions
+
