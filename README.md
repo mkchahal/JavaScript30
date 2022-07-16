@@ -48,3 +48,9 @@ New Things I learnt:
 * Learn some and every functions
 * Revise find and findIndex functions
 
+## Day 8 - Fun with HTML5 Canvas 🎨 🖌️ - 07/15/2022
+"Color possesses a language without words." - Billy Dugger
+New Things I learnt: 
+* Canvas element in HTML and the context functions
+* Using HSL for multicolor strokes (Hue, Saturation, Lightness)
+* Revised mouse events - move, up, down, out
