@@ -60,3 +60,12 @@ New Things I learnt:
 * Canvas element in HTML and the context functions
 * Using HSL for multicolor strokes (Hue, Saturation, Lightness)
 * Revised mouse events - move, up, down, out
+
+## Day 9 - Dev Tools 🧰 - 07/16/2022
+Never ending confusion - putting multiple console.logs or running debugger. 😝
+
+New Things I learnt: 
+* attribute modification
+* Using %s and %c in console
+* Revised multiple console methods. Fav is groupCollapsed 🌟
+
